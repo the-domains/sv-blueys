@@ -1,0 +1,14 @@
+layout_spectrum: 0.3208008
+typography_spectrum: 0.03373036
+color:
+  saturation: 0.466208
+  lightness: 0.3544047
+  brandStrength: 0.01706834
+  rhythmicContrast: 0.5436404
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: SV Blueys
