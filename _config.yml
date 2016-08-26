@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.03373036
 color:
-  saturation: 0.7234042
+  saturation: 0.4808511
   brandStrength: 0.393617
-  lightness: 0.5340425
+  lightness: 0.9574468
   brandColors:
     - '#C9FFFF'
     - '#7FD0FF'
@@ -21,6 +22,5 @@ color:
     - '#040402'
     - '#374B00'
   rhythmicContrast: 0.5436404
-typography_spectrum: 0.03373036
 layout_spectrum: 0.9851064
 name: SV Blueys
